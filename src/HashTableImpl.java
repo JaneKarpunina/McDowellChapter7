@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class  HashTableImpl<K, V> {
 
     List<LinkedList<Node<K, V>>> hashTable = new ArrayList<>();
-    int capacity = 0;
+    int capacity;
 
     public HashTableImpl(int capacity) {
            this.capacity = capacity;
