@@ -1,3 +1,5 @@
+package hashtable_with_linkedLists;
+
 import java.util.Objects;
 
 public class KeyForHashTableTest {

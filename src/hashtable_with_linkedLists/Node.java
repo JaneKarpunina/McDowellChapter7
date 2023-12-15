@@ -1,3 +1,5 @@
+package hashtable_with_linkedLists;
+
 public class Node<K, V> {
 
     K key;
